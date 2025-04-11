@@ -56,13 +56,13 @@ Follow these steps to get the project up and running locally:
 ## **Screenshots**
 
 ### 1. **Login Screen**  
-![Login Screen](images/login.JPG)
+![Login Screen](src/animations/login.JPG)
 
 ### 2. **Dashboard View**  
-![Dashboard View](images/fisrt.JPG)
+![Dashboard View](src/animations/fisrt.JPG)
 
 ### 3. **Meal Filtering**  
-![Meal Filtering](images/filter.JPG)
+![Meal Filtering](src/animations/filter.JPG)
 
 
 ## Usage
