@@ -84,4 +84,7 @@ src/
 ├── main.tsx           
 └── vite-env.d.ts      
 
+# Screenshots
+
+![image](https://github.com/user-attachments/assets/ba0f5f6b-2592-4abe-87df-9c3d9d3fb5f6)
 
