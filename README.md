@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-# Gourmet Dashboard
+# FoodieHub-Dashboard
 
 A brief description of your project, its purpose, and features.
 
@@ -9,9 +7,7 @@ A brief description of your project, its purpose, and features.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<p>
+
   
 
 ## Features
@@ -21,9 +17,6 @@ A brief description of your project, its purpose, and features.
 - Redux-based state management
 - Modular and reusable components
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<p>
   
 
 ## Installation
@@ -61,20 +54,14 @@ Follow these steps to get the project up and running locally:
    http://localhost:5173
    ```
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<p>
-  
+
 ## Usage
 
 1. Run the development server as mentioned above.
 2. Access the app in your browser.
 3. Explore the features, such as authentication, adding items to the cart, and navigating through the header.
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<p>
-  
+
 
 ## Project Structure
 
@@ -97,15 +84,4 @@ src/
 ├── main.tsx           
 └── vite-env.d.ts      
 
-.eslint.config.js      
-.gitignore             
-index.html             
-package-lock.json      
-```
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<p>
-  
-=======
-# FoodieHub-Dashboard
->>>>>>> ebb932b611607ec56ac9dff382f35eabb2df6531
+
