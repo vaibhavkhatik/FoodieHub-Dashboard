@@ -1,6 +1,6 @@
 # FoodieHub-Dashboard
 
-A brief description of your project, its purpose, and features.
+A visually engaging and interactive dashboard designed for food delivery platforms. The project provides seamless user experience with real-time cart management, user authentication, and a dynamic 3D background. Built using modern web technologies, the dashboard ensures modularity and scalability with reusable components and Redux-based state management.
 
 ## Table of Contents
 - [Features](#features)
